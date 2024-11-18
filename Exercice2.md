@@ -12,3 +12,6 @@
 
 ![AD](./ADDS2/ADDS3.png)  
 
+##### Ajouter l'utilisateur dans le groupe 
+
+![AD](./ADDS2/ADDS4.png)  
